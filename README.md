@@ -3,6 +3,9 @@
 This project demonstrates a simple client-server communication setup where the client (running on Windows) connects to a server (running on Linux) using TCP sockets. The client sends and receives messages from the server in a continuous loop.
 
 ![image](https://github.com/user-attachments/assets/3f2abf6a-f8ec-4993-abfc-2180347b7740)
+
+
+
 ![image](https://github.com/user-attachments/assets/5814ad23-5c6d-4cba-97f8-062b0a341988)
 
 
